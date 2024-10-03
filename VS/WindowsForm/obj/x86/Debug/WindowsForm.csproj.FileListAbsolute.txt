@@ -1,0 +1,141 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\obj\x86\Debug\WindowsForm.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\WindowsForm\obj\x86\Debug\WindowsForm.pdb
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\bin\Debug\2.ico
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\bin\Debug\1200210527.exe.config
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\bin\Debug\1200210527.exe
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\bin\Debug\1200210527.pdb
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\1200210527.exe
+C:\Documents and Settings\Administrator\桌面\无线多路防盗报警器\1234\WindowsForm\WindowsForm\obj\x86\Debug\1200210527.pdb
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\2.ico
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\1200220204.exe.config
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\1200220204.exe
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\1200220204.pdb
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\Interop.iPlotLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\Interop.isAnalogLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\AxInterop.iPlotLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\bin\Debug\AxInterop.isAnalogLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\Interop.iPlotLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\Interop.isAnalogLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\Interop.iStripChartXControl.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\AxInterop.iPlotLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\1200220204.exe
+E:\烘干箱\1234\WindowsForm\WindowsForm\obj\x86\Debug\1200220204.pdb
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\Interop.iPlotLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\Interop.isAnalogLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\Interop.iStripChartXControl.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\AxInterop.iPlotLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\1161120310.exe.config
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\2.ico
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\1161120310.exe
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\1161120310.pdb
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\Interop.iPlotLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\Interop.isAnalogLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\AxInterop.iPlotLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\bin\Debug\AxInterop.isAnalogLibrary.dll
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\1161120310.exe
+E:\太阳能路灯\WindowsForm\WindowsForm\obj\x86\Debug\1161120310.pdb
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\Interop.iPlotLibrary.dll
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\Interop.iProfessionalLibrary.dll
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\Interop.isAnalogLibrary.dll
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\Interop.iStripChartXControl.dll
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\AxInterop.iPlotLibrary.dll
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\AxInterop.isAnalogLibrary.dll
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\UHRFID\PC\WindowsForm\bin\Debug\2.ico
+G:\UHRFID\PC\WindowsForm\bin\Debug\Interop.iPlotLibrary.dll
+G:\UHRFID\PC\WindowsForm\bin\Debug\Interop.isAnalogLibrary.dll
+G:\UHRFID\PC\WindowsForm\bin\Debug\AxInterop.iPlotLibrary.dll
+G:\UHRFID\PC\WindowsForm\bin\Debug\AxInterop.isAnalogLibrary.dll
+G:\UHRFID\PC\WindowsForm\bin\Debug\qwe.exe.config
+G:\UHRFID\PC\WindowsForm\bin\Debug\qwe.exe
+G:\UHRFID\PC\WindowsForm\bin\Debug\qwe.pdb
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\qwe.exe
+G:\UHRFID\PC\WindowsForm\obj\x86\Debug\qwe.pdb
+D:\GG\UHRFID\PC\WindowsForm\bin\Debug\qwe.exe.config
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\qwe.pdb
+D:\GG\UHRFID\PC\WindowsForm\bin\Debug\2.ico
+D:\GG\UHRFID\PC\WindowsForm\bin\Debug\qwe.exe
+D:\GG\UHRFID\PC\WindowsForm\bin\Debug\qwe.pdb
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\GG\UHRFID\PC\WindowsForm\obj\x86\Debug\qwe.exe
+F:\149指纹考勤\PC\WindowsForm\bin\Debug\qwe.exe.config
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\qwe.exe
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\qwe.pdb
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+F:\149指纹考勤\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.GenerateResource.Cache
+F:\149指纹考勤\PC\WindowsForm\bin\Debug\2.ico
+F:\149指纹考勤\PC\WindowsForm\bin\Debug\qwe.exe
+F:\149指纹考勤\PC\WindowsForm\bin\Debug\qwe.pdb
+E:\湿度xx\PC\WindowsForm\bin\Debug\qwe.exe.config
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\qwe.exe
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\qwe.pdb
+E:\湿度xx\PC\WindowsForm\bin\Debug\2.ico
+E:\湿度xx\PC\WindowsForm\bin\Debug\qwe.exe
+E:\湿度xx\PC\WindowsForm\bin\Debug\qwe.pdb
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+E:\湿度xx\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.GenerateResource.Cache
+E:\2021413\PC\WindowsForm\bin\Debug\qwe.exe.config
+E:\2021413\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+E:\2021413\PC\WindowsForm\obj\x86\Debug\qwe.exe
+E:\2021413\PC\WindowsForm\obj\x86\Debug\qwe.pdb
+E:\2021413\PC\WindowsForm\obj\x86\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+E:\2021413\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+E:\2021413\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+E:\2021413\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.GenerateResource.Cache
+E:\2021413\PC\WindowsForm\bin\Debug\2.ico
+E:\2021413\PC\WindowsForm\bin\Debug\qwe.exe
+E:\2021413\PC\WindowsForm\bin\Debug\qwe.pdb
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\qwe.exe.config
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.ResolveComReference.cache
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\qwe.exe
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\qwe.pdb
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\2.ico
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\qwe.exe
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\qwe.pdb
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\WindowsForm.csprojResolveAssemblyReference.cache
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\WindowsForm.csproj.GenerateResource.Cache

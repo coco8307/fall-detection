@@ -1,0 +1,33 @@
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\1700800902.exe.config
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\change.csproj.ResolveComReference.cache
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\2.ico
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\1700800902.exe
+G:\毕设\软件\BS\PC\WindowsForm\bin\Debug\1700800902.pdb
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\change.csprojResolveAssemblyReference.cache
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\change.csproj.GenerateResource.Cache
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\1700800902.exe
+G:\毕设\软件\BS\PC\WindowsForm\obj\x86\Debug\1700800902.pdb
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\bin\Debug\1700800902.exe.config
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\change.csproj.ResolveComReference.cache
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\1700800902.exe
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\1700800902.pdb
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\bin\Debug\2.ico
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\bin\Debug\1700800902.exe
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\bin\Debug\1700800902.pdb
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\change.csprojResolveAssemblyReference.cache
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+G:\毕设\软件\新建文件夹 (2)\dd\BS\PC\WindowsForm\obj\x86\Debug\change.csproj.GenerateResource.Cache
+G:\毕设\软件\VS\WindowsForm\bin\Debug\1700800902.exe.config
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\change.csproj.ResolveComReference.cache
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\1700800902.exe
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\1700800902.pdb
+G:\毕设\软件\VS\WindowsForm\bin\Debug\2.ico
+G:\毕设\软件\VS\WindowsForm\bin\Debug\1700800902.exe
+G:\毕设\软件\VS\WindowsForm\bin\Debug\1700800902.pdb
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\change.csprojResolveAssemblyReference.cache
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\SerialCommunicate.Form1.resources
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\WindowsForm.Properties.Resources.resources
+G:\毕设\软件\VS\WindowsForm\obj\x86\Debug\change.csproj.GenerateResource.Cache
